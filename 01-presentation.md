@@ -46,3 +46,5 @@ Le jeu explore une période historique inédite dans la licence : la Reconquista
 | Chute d'Acre              | 1291      | Contexte des dernières années de Léon     |
 | Arrestation des Templiers | 1307      | Séquence 13 — dénouement                  |
 | Prologue AC Unity (Molay) | 1307–1314 | Lien direct avec la fin du jeu            |
+
+<figure><img src=".gitbook/assets/logo-ACRE4.png" alt=""><figcaption></figcaption></figure>
