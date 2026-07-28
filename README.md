@@ -26,13 +26,13 @@ Il couvre l'ensemble des aspects de conception : narration, gameplay, world desi
 
 ## Navigation
 
-* [01 — Présentation](01-presentation/)
-* [02 — Univers & Lore](02-univers-lore/)
-* [03 — Narration](03-narration/)
-* [04 — Gameplay](04-gameplay/)
-* [05 — World Design](05-world-design/)
-* [06 — Direction Artistique](06-direction-artistique/)
-* [07 — Annexes](07-annexes/)
+* [01 — Présentation](01-presentation)
+* [02 — Univers & Lore](02-univers-lore)
+* [03 — Narration](03-narration)
+* [04 — Gameplay](04-gameplay)
+* [05 — World Design](05-world-design)
+* [06 — Direction Artistique](06-direction-artistique)
+* [07 — Annexes](07-annexes)
 
 ***
 
@@ -50,4 +50,5 @@ Il couvre l'ensemble des aspects de conception : narration, gameplay, world desi
 
 ***
 
-_Projet conçu par_ [_Valentin "valinko" Binet_](https://valinko.carrd.co/) _— 2025/2026_ _Fan project — Assassin's Creed est une propriété d'Ubisoft_
+_Projet conçu par_ [_Valentin "valinko" Binet_](https://valinko.carrd.co/) _— 2025/2026_\
+_Fan project — Assassin's Creed est une propriété d'Ubisoft_
