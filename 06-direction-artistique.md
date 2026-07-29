@@ -79,5 +79,3 @@ L'emblème d'AC : Reconquista fusionne le symbole Assassin avec la **croix de Sa
 *Le blanc templier disparaît progressivement pour ne jamais revenir.*
 
 ---
-
-[← 05 — World Design](../05-world-design/README.md) | [07 — Annexes →](../07-annexes/README.md)
