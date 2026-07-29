@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Assassin's Creed : Reconquista](README.md)
 * [01 — Présentation](01-presentation.md)
 * [02 — Univers & Lore](02-univers-and-lore.md)
 * [03 — Narration](03-narration.md)
