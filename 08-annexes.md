@@ -1,4 +1,4 @@
-# 07 — Annexes
+# 08 — Annexes
 
 > ℹ️ **Section complémentaire** — Ressources historiques et références lore utilisées dans la conception d'AC : Reconquista.
 
