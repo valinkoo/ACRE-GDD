@@ -11,7 +11,6 @@
 | **Période**            | XIIIe–XIVe siècle (1229–1307)                       |
 | **Cadre géographique** | Pyrénées, sud de la France, Castille, Aragon, Paris |
 | **Statut**             | Fan project — conception                            |
-![[logo-ACRE4.png]]
 
 ---
 
