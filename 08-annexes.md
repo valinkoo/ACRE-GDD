@@ -84,7 +84,3 @@ La conception d'AC : Reconquista s'appuie sur une connaissance directe de la lic
 | Reconquista           | Reconquête chrétienne de la péninsule ibérique (711–1492)     |
 | Castellum             | Enceinte fortifiée médiévale                                  |
 | Mudéjars              | Musulmans vivant sous domination chrétienne en Ibérie         |
-
----
-
-[← 06 — Direction Artistique](../06-direction-artistique/README.md) | [↑ Retour à l'accueil](../README.md)
