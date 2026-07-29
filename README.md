@@ -25,13 +25,13 @@ Il couvre l'ensemble des aspects de conception : narration, gameplay, world desi
 ## Navigation
 
 * [01 — Présentation](https://github.com/valinkoo/ACRE-GDD/blob/main/01-presentation.md)
-* [02 — Univers & Lore](02-univers-lore/)
-* [03 — Narration](03-narration/)
-* [04 — Gameplay](04-gameplay/)
-* [05 — World Design](05-world-design/)
-* [06 — Direction Artistique](06-direction-artistique/)
-* [07 — Extensions](07-extensions/)
-* [08 — Annexes](08-annexes.md)
+* [02 — Univers & Lore](https://github.com/valinkoo/ACRE-GDD/blob/main/02-univers-lore.md)
+* [03 — Narration](https://github.com/valinkoo/ACRE-GDD/blob/main/03-narration.md)
+* [04 — Gameplay](https://github.com/valinkoo/ACRE-GDD/blob/main/04-gameplay.md)
+* [05 — World Design](https://github.com/valinkoo/ACRE-GDD/blob/main/05-world-design.md)
+* [06 — Direction Artistique](https://github.com/valinkoo/ACRE-GDD/blob/main/06-direction-artistique.md)
+* [07 — Extensions](https://github.com/valinkoo/ACRE-GDD/blob/main/07-extensions.md)
+* [08 — Annexes](https://github.com/valinkoo/ACRE-GDD/blob/main/08-annexes.md)
 
 ***
 
