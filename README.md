@@ -1,18 +1,17 @@
-# README
-
+# Assassin's Creed : Reconquista
 ### Game Design Document — Version 0.1
 
-***
+---
 
-> _"Rien n'est vrai. Tout est permis."_
+> *"Rien n'est vrai. Tout est permis."*
 
-***
+---
 
 ## Disclaimer
 
 Assassin's Creed: Reconquista est une œuvre de fiction créée par passion, dans le cadre d’un univers alternatif fanmade. La licence, Assassin's Creed et les personnages originaux associés sont la propriété exclusive d'Ubisoft Entertainment. Ce projet ne génère aucun revenu et sans aucune affiliation avec Ubisoft Montréal. L’histoire, les personnages inédits et les éléments visuels sont des créations originales inspirées mais distinctes.
 
-***
+---
 
 ## À propos de ce document
 
@@ -20,7 +19,7 @@ Ce GDD présente la conception d'**Assassin's Creed : Reconquista**, un jeu fan 
 
 Il couvre l'ensemble des aspects de conception : narration, gameplay, world design et direction artistique.
 
-***
+---
 
 ## Navigation
 
@@ -33,20 +32,21 @@ Il couvre l'ensemble des aspects de conception : narration, gameplay, world desi
 - [07 — Extensions](./07-extensions)
 - [08 — Annexes](08-annexes.md)
 
-***
+---
 
 ## Statut du projet
 
-| Section              | Statut      |
-| -------------------- | ----------- |
-| Présentation         | ✅ Complété  |
-| Univers & Lore       | ✅ Complété  |
-| Narration            | 🔄 En cours |
-| Gameplay             | ✅ Complété  |
-| World Design         | 🔄 En cours |
+| Section | Statut |
+|---|---|
+| Présentation | ✅ Complété |
+| Univers & Lore | ✅ Complété |
+| Narration | 🔄 En cours |
+| Gameplay | ✅ Complété |
+| World Design | 🔄 En cours |
 | Direction Artistique | 🔄 En cours |
-| Annexes              | 🔄 En cours |
+| Annexes | ⏳ À venir |
 
-***
+---
 
-_Projet conçu par_ [_Valentin "valinko" Binet_](https://valinko.carrd.co/) _— 2025/2026_ _Fan project — Assassin's Creed est une propriété d'Ubisoft_
+*Projet conçu par [Valentin "valinko" Binet](https://valinko.carrd.co/) — 2025/2026*
+*Fan project — Assassin's Creed est une propriété d'Ubisoft*
