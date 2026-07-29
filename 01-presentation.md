@@ -47,4 +47,4 @@ Le jeu explore une période historique inédite dans la licence : la Reconquista
 | Arrestation des Templiers | 1307      | Séquence 13 — dénouement                  |
 | Prologue AC Unity (Molay) | 1307–1314 | Lien direct avec la fin du jeu            |
 
-<figure><img src=".gitbook/assets/logo-ACRE4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo-ACRE4 (1).png" alt=""><figcaption></figcaption></figure>
