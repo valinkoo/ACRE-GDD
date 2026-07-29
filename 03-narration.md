@@ -27,28 +27,31 @@ Un homme templier dans les actes, spectateur dans la conscience. Pendant 20 ans,
 
 ## Chronologie de Léon Arsenault
 
-| Date      | Événement                                                                            |
-| --------- | ------------------------------------------------------------------------------------ |
-| 1229      | Naissance, zone pyrénéenne                                                           |
-| 1238–1241 | Formation chez les Assassins (branche sud)                                           |
-| 1241      | Effondrement de la branche sud — mort de Léopold et Alix                             |
-| 1241–1244 | Errance, recrutement par François de Montfort                                        |
-| 1244      | Apprenti Templier à Pamiers                                                          |
-| 1248      | Adoubement — départ pour la septième croisade                                        |
-| 1248–1254 | Septième croisade — rencontre indirecte avec Saint Louis                             |
-| 1254–1258 | Retour dans le sud de la France, missions locales                                    |
-| 1258      | Traité de Corbeil — promotion Chef Templier                                          |
-| 1260–1262 | Reconquista en Castille                                                              |
-| 1264      | Révolte des Mudéjars — découverte des archives, confrontation avec François, rupture |
-| 1264–1266 | Errance nomade — Paris, capture par Auguste                                          |
-| 1266      | Intégration chez les Assassins — mission d'épreuve au Temple de Paris                |
-| 1271      | Funérailles de Saint Louis — gain de confiance de la Confrérie                       |
-| 1276      | Révolte de Navarre — refondation de la branche sud                                   |
-| 1282      | Castille — mort d'Auguste, Léon devient Mentor                                       |
-| 1284–1285 | Croisade d'Aragon — dernière mission active                                          |
-| ~1288     | Recrutement de Guillaume de Nogaret                                                  |
-| ~1295     | Retraite à Béarn — Nogaret lui succède                                               |
-| 1307      | Chute des Templiers — Léon s'éteint à Béarn                                          |
+| Date      | Événement                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------- |
+| 1229      | Naissance, zone pyrénéenne                                                                                |
+| 1238–1241 | Formation chez les Assassins (branche sud)                                                                |
+| 1241      | Effondrement de la branche sud — mort de Léopold et Alix                                                  |
+| 1241–1244 | Errance, recrutement par François de Montfort                                                             |
+| 1244      | Apprenti Templier à Pamiers                                                                               |
+| 1248      | Adoubement — départ pour la septième croisade                                                             |
+| 1248      | Rencontre avec Douce Faure à Pamiers puis retrouvée à Aigues-Mortes                                       |
+| 1248–1254 | Septième croisade — rencontre indirecte avec Saint Louis                                                  |
+| 1254      | Relation développée au retour de croisade avec  Douce Faure                                               |
+| 1254–1258 | Retour dans le sud de la France, missions locales                                                         |
+| 1258      | Traité de Corbeil — promotion Chef Templier                                                               |
+| 1260–1262 | Reconquista en Castille                                                                                   |
+| 1264      | Révolte des Mudéjars — découverte des archives, confrontation avec François, rupture                      |
+| 1264–1266 | Errance nomade — Paris, capture par Auguste<br>Séparation pendant l'errance — Léon la retrouve par hasard |
+| 1266      | Intégration chez les Assassins — mission d'épreuve au Temple de Paris                                     |
+| 1271      | Funérailles de Saint Louis — gain de confiance de la Confrérie                                            |
+| 1275      | Naissance d'un enfant de Léon et Douce Faure                                                              |
+| 1276      | Révolte de Navarre — refondation de la branche sud                                                        |
+| 1282      | Castille — mort d'Auguste, Léon devient Mentor                                                            |
+| 1284–1285 | Croisade d'Aragon — dernière mission active                                                               |
+| ~1288     | Recrutement de Guillaume de Nogaret                                                                       |
+| ~1295     | Retraite à Béarn — Nogaret lui succède                                                                    |
+| 1307      | Chute des Templiers — Léon s'éteint à Béarn                                                               |
 
 ---
 

@@ -62,16 +62,15 @@ Lien direct avec AC Unity — retrouvée par Germain des siècles plus tard (Ré
 
 ### Personnages fictifs
 
-| Personnage                 | Rôle                                          |
-| -------------------------- | --------------------------------------------- |
-| Léon Arsenault (1229–1307) | Protagoniste                                  |
-| Léopold Arsenault          | Père, Maître Assassin, †1241                  |
-| Alix de Laurière           | Mère, affiliée à la Confrérie, †1241          |
-| François de Montfort       | Maître Templier, antagoniste principal, †1264 |
-| Auguste de Saint-Denis     | Assassin parisien, partenaire de Léon, †1282  |
-| Thomas de Carneillon       | Maître Assassin, Mentor, 1276–1323            |
+| Personnage                 | Rôle                                                                 |
+| -------------------------- | -------------------------------------------------------------------- |
+| Léon Arsenault (1229–1307) | Protagoniste                                                         |
+| Léopold Arsenault          | Père, Maître Assassin, †1241                                         |
+| Alix de Laurière           | Mère, affiliée à la Confrérie, †1241                                 |
+| François de Montfort       | Maître Templier, antagoniste principal, †1264                        |
+| Auguste de Saint-Denis     | Assassin parisien, partenaire de Léon, †1282                         |
+| Thomas de Carneillon       | Maître Assassin, Mentor, 1276–1323                                   |
 | Douce Faure                | Fille d'artisan de Pamiers, compagne de Léon. Mère de sa descendance |
-
 ### Personnages historiques
 
 | Personnage               | Dates      | Rôle dans le jeu                   |
