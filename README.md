@@ -44,7 +44,7 @@ Il couvre l'ensemble des aspects de conception : narration, gameplay, world desi
 | Gameplay | ✅ Complété |
 | World Design | 🔄 En cours |
 | Direction Artistique | 🔄 En cours |
-| Annexes | ⏳ À venir |
+| Annexes | 🔄 En cours |
 
 ---
 
