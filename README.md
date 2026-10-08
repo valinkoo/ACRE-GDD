@@ -2,12 +2,6 @@
 
 ### Game Design Document — Version 0.1
 
-***
-
-> _"Rien n'est vrai. Tout est permis."_
-
-***
-
 ## Disclaimer
 
 Assassin's Creed: Reconquista est une œuvre de fiction créée par passion, dans le cadre d’un univers alternatif fanmade. La licence, Assassin's Creed et les personnages originaux associés sont la propriété exclusive d'Ubisoft Entertainment. Ce projet ne génère aucun revenu et sans aucune affiliation avec Ubisoft Montréal. L’histoire, les personnages inédits et les éléments visuels sont des créations originales inspirées mais distinctes.
